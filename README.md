@@ -1,6 +1,6 @@
 ### Hi! I'm Vitor Fernandes
 
-👨🏽‍💻 - Programador Junior.
+👨🏽‍💻 - Programador Junior. <br>
 👨🏽‍🎓 - Aluno no instituto PROA.
 
 <div>
