@@ -1,7 +1,7 @@
 ### Hi! I'm Vitor Fernandes Viana
 
 👨🏽‍💻 - Programador Junior. <br>
-👨🏽‍🎓 - Aluno no instituto PROA.
+👨🏽‍🎓 - Aluno na faculdade SPTECH.
 
 <div>
   <a href="https://github.com/Vitor42z">
