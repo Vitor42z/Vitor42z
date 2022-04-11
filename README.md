@@ -1,6 +1,6 @@
 ### Hi! I'm Vitor Fernandes Viana
 
-👨🏽‍💻 - Programador Junior. <br>
+👨🏽‍💻 - Dev Junior. <br>
 👨🏽‍🎓 - Aluno na faculdade SPTECH.
 
 <div>
