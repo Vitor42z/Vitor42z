@@ -13,8 +13,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="margin_left:10px" align="center" alt="Java" height="30" width="28" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
-  <img style="margin_left:20px" align="center" alt="Kotlin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
+  <img style="margin-left:10px;" align="center" alt="Java" height="30" width="28" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png">
+  <img style="margin-left:20px;" align="center" alt="Kotlin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png">
 </div>
   
   ##
