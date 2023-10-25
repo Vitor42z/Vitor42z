@@ -1,7 +1,8 @@
 ### Hi! I'm Vitor Fernandes Viana
 
-👨🏽‍💻 - Front-End Junior. <br>
-👨🏽‍🎓 - Aluno na faculdade SPTECH.
+👨🏽‍💻 - Full Stack Junior.<br>
+👨🏽‍🎓 - Student at <a href="https://www.sptech.school">SÃO PAULO TECH SCHOOL</a>.<br>
+👨‍🔧 - Intern at <a href="https://orbitall.com.br/home">Orbitall Payments</a>
 
 <div>
   <a href="https://github.com/vitorfviana">
